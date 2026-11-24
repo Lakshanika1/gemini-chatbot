@@ -141,8 +141,6 @@ This project strengthened my understanding of building AI-powered conversational
 
 B.E. Computer Science and Engineering
 
-GitHub: [Lakshanika1](https://github.com/Lakshanika1)
-
 ---
 
 ⭐ If you find this project useful, consider giving this repository a star!
